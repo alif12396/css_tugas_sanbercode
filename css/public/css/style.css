@@ -1,0 +1,47 @@
+body {
+    background-image: url(../img/pattern.jpg);
+}
+
+header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+a {
+    font-size: 23px;
+    text-decoration: none;
+}
+
+article {
+
+    background-color: white;
+    border: black solid 1px;
+    margin: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 2px;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+}
